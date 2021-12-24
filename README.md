@@ -8,11 +8,11 @@
     <p>아직 공사가 덜 됐지만 그동안 어떻게 공부해왔는지 보셔도 좋아요😁</p>
     <p><b>=============공사목록=============</b></p>
     <ul><li>pengnim/studyWeb</li>
-      <li>pengnim/solve_algo : 공사제외<li>
+      <li>pengnim/solve_algo - 공사제외<li>
       <li>pengnim/studyBackend</li>
       <li>pengnim/studyDB</li>
       <li>pengnim/BoardGame</li>
-      <li>pengnim/BoardGame_2021 : 공사제외</li>
+      <li>pengnim/BoardGame_2021 - 공사제외</li>
     </ul>
   </body>
   </html>

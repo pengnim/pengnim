@@ -10,7 +10,7 @@
     <ul><li>pengnim/studyWeb</li>
       <li>pengnim/studyBackend</li>
       <li>pengnim/studyDB</li>
-      <li>pengnim/BoardGame</li>
+      <li>pengnim/BoardGame(✅완료)</li>
     </ul>
   </body>
   </html>

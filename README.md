@@ -1,5 +1,3 @@
 # 👋 Hi, I’m @pengnim
 
-
-[]
-[]:http://komarev.com/ghpvc/?username=pengnim
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpengnim&count_bg=%237A9670&title_bg=%23785D5D&icon=&icon_color=%23E7E7E7&title=pengnim&edge_flat=false)](https://hits.seeyoufarm.com)
